@@ -1,0 +1,1 @@
+This is a record of exercises of the course java. I also use this repository to do some little tests.
