@@ -6,6 +6,10 @@ import javax.swing.JLabel;
 
 public class JLabelWhoClignote extends JLabel implements Runnable{
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	private Thread shine = null;
 	private boolean isAlive = false;
 	
