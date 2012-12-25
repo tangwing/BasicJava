@@ -1,9 +1,17 @@
 import java.util.HashMap;
 import java.util.Iterator;
 
-/*
+/**
+ * 描述人对象，拥有两个属性，分别是名字和性别。
  * C'est la classe qui représente un étudiant.
- * */
+ * @author 尚磊
+ * @param non
+ * @see javadoc.tool.Car
+ * @version 1.0, 2005-04-12
+
+ * @since JDK1.3
+ */
+
 public class Etudiant {
 
 	private String nomEtu;
