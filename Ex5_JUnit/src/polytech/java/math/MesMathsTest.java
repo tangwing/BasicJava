@@ -55,7 +55,7 @@ public class MesMathsTest {
 	 */
 	@Test
 	public void testPuissanceDe10() {
-		assertEquals("This is a msg",100, MesMaths.puissanceDe10(3));
+		assertEquals("This is a msg",1000, MesMaths.puissanceDe10(3));
 		//fail("Not yet implemented");
 	}
 

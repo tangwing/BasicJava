@@ -16,7 +16,7 @@ public class Etudiant {
 
 	private String nomEtu;
 	private HashMap<Matiere, Float> notesMap;
-	
+	public static int test = 10;
 	public Etudiant(String nom)
 	{
 		nomEtu = nom;
